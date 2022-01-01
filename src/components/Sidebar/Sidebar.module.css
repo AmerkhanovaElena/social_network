@@ -1,0 +1,16 @@
+.sidebar {
+  grid-area: sidebar;
+  grid-template-areas:
+  "nav"
+  "friends";
+}
+
+.nav {
+    grid-area: nav;
+    padding: 20px;
+  }
+
+.friends {
+    grid-area: friends;
+    padding: 20px;
+}

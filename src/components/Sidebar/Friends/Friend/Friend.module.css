@@ -1,0 +1,15 @@
+.ava {
+    display: block;
+    width: 40px;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+/* .name {
+
+} */
+
+.friend {
+    padding-bottom: 10px;
+}
